@@ -1,1 +1,7 @@
+# 服务端口
+server:
+  port: 3001
+# 当前版本信息
+version:
+  message: 2100年10月20日第一个版本
 
